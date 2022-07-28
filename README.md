@@ -32,7 +32,7 @@ About me 🖼
  
 ### Programming 
 
-Java , C , Python , JavaScript, React
+Java , C , Python , JavaScript, HTML5, CSS6
 
 DB : Oracle , Mysql , Neo4j Graph DB 
 
